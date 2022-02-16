@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains study questions on the topic of frequency tuning
   and cochlear mechanics along with the required references according to the question.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-721-the-peripheral-auditory-system-fall-2005/3e858e614ff1a891b5a2708d493dc060_study_qs_ds_5.pdf
+file: /media/courses/hst-721-the-peripheral-auditory-system-fall-2005/3e858e614ff1a891b5a2708d493dc060_study_qs_ds_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: study_qs_ds_5.pdf
 uid: 3e858e61-4ff1-a891-b5a2-708d493dc060

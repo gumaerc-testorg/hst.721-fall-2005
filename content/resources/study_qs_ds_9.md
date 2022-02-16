@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains study questions on the topic of development along
   with the required references according to the question.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-721-the-peripheral-auditory-system-fall-2005/7efc11cd12de2fd6c662e1392ab5a378_study_qs_ds_9.pdf
+file: /media/courses/hst-721-the-peripheral-auditory-system-fall-2005/7efc11cd12de2fd6c662e1392ab5a378_study_qs_ds_9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: study_qs_ds_9.pdf
 uid: 7efc11cd-12de-2fd6-c662-e1392ab5a378
