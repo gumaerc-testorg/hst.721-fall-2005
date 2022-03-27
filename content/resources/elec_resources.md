@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 49538b8e-e474-a4d7-2401-ec9475a929d3
 resourcetype: Document
 title: elec_resources.pdf
 uid: bc059ebc-86a0-a23c-8014-460f88311627
