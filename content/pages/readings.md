@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This readings section lists the journal articles and textbook selections
+  along with the study questions as per the discussion sessions of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -37,11 +39,11 @@ Lecture: Introduction
  
 {{< tdclose >}}
 {{< tdopen >}}
-Ions, Channels, Currents, and Electrical Potentials ([PDF]({{< baseurl >}}/resources/ion_currents))  
+Ions, Channels, Currents, and Electrical Potentials ({{% resource_link 9b0f3909-3f57-3b45-4e9e-a53978e795ce "PDF" %}})  
   
-Bibliography of Discussion Papers ([PDF]({{< baseurl >}}/resources/disc_papers_04))  
+Bibliography of Discussion Papers ({{% resource_link 4fca9605-e6f9-be9a-36c0-f3d02adfc41c "PDF" %}})  
   
-Electronic Resources ([PDF]({{< baseurl >}}/resources/elec_resources))
+Electronic Resources ({{% resource_link bc059ebc-86a0-a23c-8014-460f88311627 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +55,7 @@ Electronic Resources ([PDF]({{< baseurl >}}/resources/elec_resources))
 Discussion: Anatomy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/study_qs_ds_1))
+({{% resource_link 5acd31e6-65e7-04d9-84d7-8858b93586af "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Forge, A., and T. Wright. "The molecular architecture of the inner ear." _Br Med Bull_ 63 (2002): 5-24.  
@@ -74,7 +76,7 @@ Liberman, M. C. "Morphological differences among radial afferent fibers in the c
 Discussion: Hair Cells and Transduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/study_qs_ds_2))
+({{% resource_link a4849923-671e-bb6c-2589-f0e7293faba2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Roberts, W. M., and J. Howard, et. al. "Hair cells: transduction, tuning, and transmission in the inner ear." _Annu Rev Cell Biol_ 4 (1988): 63-92.  
@@ -95,7 +97,7 @@ Denk, W., J. R. Holt, G. M. Shepherd, and D. P. Corey. "Calcium imaging of singl
 Discussion: Stria and Endocochlear Potential
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/study_qs_ds_3))
+({{% resource_link 0bdc32c8-4630-77f7-b826-2fa25528afe8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Wangemann, P. "K+ cycling and its regulation in the cochlea and vestibular labyrintl." _Audiology Neurootology_ 7 (2002): 199-205.  
@@ -114,7 +116,7 @@ Takeuchi, S., M. Ando, and A. Kakigi. "Mechanism generating endocochlear potenti
 Discussion: Electromotility and OHCs
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/study_qs_ds_4))
+({{% resource_link 0d988b21-ba6f-7671-4255-a9f99bb63386 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Santos-Sacchi, J. "New tunes from Corti's organ: the outer hair cell boogie rules." _Curr Opin Neurobio_ 13 (2003): 459-468.  
@@ -135,7 +137,7 @@ Zheng, J., W. Shen, D. Z. He, K. B. Long, L. D. Madison, and P. Dallos. "Prestin
 Discussion: Tuning and Mechanics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/study_qs_ds_5))
+({{% resource_link 3e858e61-4ff1-a891-b5a2-708d493dc060 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Dallos, P. "The active cochlea." _J Neurosci_ 12 (1992): 4575-4585.  
@@ -156,7 +158,7 @@ Neely, S. T. "A model of cochlear mechanics with outer hair cell motility." _J A
 Discussion: Afferent Transmission
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/study_qs_ds_6))
+({{% resource_link 81c9a12f-b4bd-d576-2a76-c03c72c1a893 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Fuchs, P. A., E. Glowatski, and T. Moser. "The afferent synapse of cochlear hair cells." _Curr Opin Neurobio_ 13 (2003): 452-458.  
@@ -177,7 +179,7 @@ Glowatzki, E., and P. A. Fuchs. "Transmitter release at the hair cell ribbon syn
 Discussion: Auditory Nerve Response
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/study_qs_ds_7))
+({{% resource_link f80fb4d0-0490-b3b9-f755-622ccae444f0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Kiang, N. Y. S. "Peripheral neural processing of auditory information." In _Handbook of Physiology - The Nervous System III_. Section 1: The Nervous System. Vol. III. Sensory Processes. Part 2. Edited by J. M. Brookhart, V. B. Mountcastle, I. Darian-Smith, and S. R. Geiger. Philadelphia, PA: Lippincott Williams and Wilkins, 1981. ISBN: 9780683011050.  
@@ -198,7 +200,7 @@ Young, E. D., and M. B. Sachs. "Representation of steady state vowels in the tem
 Discussion: Efferent Control
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/study_qs_ds_8))
+({{% resource_link cfa38c82-216c-359b-1687-9a4c70f5d55f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Guinan, J. J. "Physiology of olivocochlear efferents." _The Cochlea_. Edited by P. Dallos, A. N. Popper, and R. R. Fay. New York, NY: Springer, 1996, pp. 435-500. ISBN: 9780387944494.  
@@ -219,7 +221,7 @@ Maison, S. F., and M. C. Liberman. "Predicting vulnerability to acoustic injury 
 Discussion: Inner Ear Development
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/study_qs_ds_9))
+({{% resource_link 7efc11cd-12de-2fd6-c662-e1392ab5a378 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Barald, K., and Kelley. "From placode to polarization: new tunes in inner ear development." _Development_ 131 (2004): 4119-4130.  
@@ -240,7 +242,7 @@ Eddison, M., I. Le Roux, and J. Lewis. "Notch signaling in the development of th
 Discussion: Trauma and Repair
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/study_qs_ds_10))
+({{% resource_link 3ebd65c2-a0d8-6ecf-034b-a558df065a66 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pirvola, U., L. Xing-Qun, J. Virkkala, M. Saarma, C. Murakata, A. M. Camoratto, K. M. Walton, and J. Ylikoski. "Rescue of hearing, auditory hair cells, and neurons by CEP-1347/KT7515, an inhibitor of c-Jun N-terminal kinase activation." _J Neurosci_ 20 (2000): 43-50.  
@@ -259,7 +261,7 @@ Izumikawa, M., R. Minoda, K. Kawamoto, K. A. Abrashkin, D. L. Swiderski, D. F. D
 Discussion: Sensorineural Hearing Loss
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/study_qs_ds_11))
+({{% resource_link a897cba9-739f-24c5-11c8-005e2be61468 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Liberman, M. C. "Auditory Processing in Sensorineural Hearing Loss." _Basic Science Review for Otolaryngology_. Edited by T. R. Van De Water, and H. Staecker. New York, NY: Thieme Medical Publishers, 2005. ISBN: 9780865779013.  
