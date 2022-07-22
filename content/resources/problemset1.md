@@ -7,6 +7,7 @@ file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/52a5225112e38852
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: problemset1.pdf
 uid: 52a52251-12e3-8852-5afa-44f0f3b905ba
 ---
 This resource contains 3 problem questions on the topic of anatomy and hair cell physiology which are intended to integrate the material learned in the course.
-

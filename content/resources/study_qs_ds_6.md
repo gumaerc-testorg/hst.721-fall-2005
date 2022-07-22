@@ -6,6 +6,7 @@ file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/81c9a12fb4bdd576
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: study_qs_ds_6.pdf
 uid: 81c9a12f-b4bd-d576-2a76-c03c72c1a893
 ---
 This resource contains study questions on the topic of afferent transmission along with the required references according to the question.
-

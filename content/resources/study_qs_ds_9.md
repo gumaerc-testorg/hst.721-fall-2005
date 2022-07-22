@@ -6,6 +6,7 @@ file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/7efc11cd12de2fd6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: study_qs_ds_9.pdf
 uid: 7efc11cd-12de-2fd6-c662-e1392ab5a378
 ---
 This resource contains study questions on the topic of development along with the required references according to the question.
-

@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Anatomical drawing of the human ear.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-721f05-th.jpg
 uid: 85d88261-0b99-c967-d9ed-84c26a4cff1c
 ---
 New image Upload
-

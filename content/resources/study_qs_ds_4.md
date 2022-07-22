@@ -6,6 +6,7 @@ file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/0d988b21ba6f7671
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: study_qs_ds_4.pdf
 uid: 0d988b21-ba6f-7671-4255-a9f99bb63386
 ---
 This resource contains study questions on the topic of OHCs and electromotility along with the required references according to the question.
-

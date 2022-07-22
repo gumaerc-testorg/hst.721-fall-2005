@@ -6,6 +6,7 @@ file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/a4849923671ebb6c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: study_qs_ds_2.pdf
 uid: a4849923-671e-bb6c-2589-f0e7293faba2
 ---
 This resource contains study questions on the topic of hair cells and transduction along with the required references according to the question.
-

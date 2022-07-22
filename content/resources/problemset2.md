@@ -7,6 +7,7 @@ file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/126c99d0b820d3da
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: problemset2.pdf
 uid: 126c99d0-b820-d3da-6759-922a6ede458b
 ---
 This resource contains 3 problem questions on the topic of endocochlear potential and cochlear mechanics which are intended to integrate the material learned in the course.
-
