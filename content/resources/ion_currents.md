@@ -5,6 +5,7 @@ description: This resource provides information on the topics of ion currents, e
   curves, sensory transduction, resting cell membrane potential, extracellular potentials
   and references.
 file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/9b0f39093f573b454e9ea53978e795ce_ion_currents.pdf
+file_size: 171577
 file_type: application/pdf
 learning_resource_types:
 - Readings

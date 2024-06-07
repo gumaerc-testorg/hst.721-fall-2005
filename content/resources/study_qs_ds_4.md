@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains study questions on the topic of OHCs and electromotility
   along with the required references according to the question.
 file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/0d988b21ba6f76714255a9f99bb63386_study_qs_ds_4.pdf
+file_size: 90984
 file_type: application/pdf
 learning_resource_types:
 - Readings

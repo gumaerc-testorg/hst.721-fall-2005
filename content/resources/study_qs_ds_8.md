@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains study questions on the topic of efferent control
   along with the required references according to the question.
 file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/cfa38c82216c359b16879a4c70f5d55f_study_qs_ds_8.pdf
+file_size: 122377
 file_type: application/pdf
 learning_resource_types:
 - Readings
