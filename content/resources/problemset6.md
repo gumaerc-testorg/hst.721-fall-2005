@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains 1 problem questions on the topic of sensorineural
   hearing loss and review which are intended to integrate the material learned in
   the course.
-file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/e7940085a266d100f01ba15a2012527c_problemset6.pdf
+file: /ol-ocw-studio-app/courses/hst-721-the-peripheral-auditory-system-fall-2005/e7940085a266d100f01ba15a2012527c_problemset6.pdf
 file_size: 109397
 file_type: application/pdf
 learning_resource_types:
