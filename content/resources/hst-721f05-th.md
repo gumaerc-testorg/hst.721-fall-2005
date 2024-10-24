@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/85d882610b99c967d9ed84c26a4cff1c_hst-721f05-th.jpg
+file: /ol-ocw-studio-app/courses/hst-721-the-peripheral-auditory-system-fall-2005/85d882610b99c967d9ed84c26a4cff1c_hst-721f05-th.jpg
 file_size: 7183
 file_type: image/jpeg
 image_metadata:
