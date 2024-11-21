@@ -2,13 +2,13 @@
 content_type: page
 description: Related resources section contains external links to the resources which
   are useful for course understanding.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 23176772-5882-865a-e3dd-aeb58a466ff0
 ---
-
-[EPL 3Dviewer](http://research.meei.harvard.edu/otopathology/3dmodels/): 3-D Virtual Model of Human Temporal Bone
+[EPL 3Dviewer](https://masseyeandear.org/research/otolaryngology/eaton-peabody-laboratories/temporal-bone-model): 3-D Virtual Model of Human Temporal Bone
 
 [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi): Database of National Library of Medicine (15 million citations from MEDLINE and other life science journals for biomedical articles)
 
