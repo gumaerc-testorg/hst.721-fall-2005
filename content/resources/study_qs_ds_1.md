@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains study questions on the topic of anatomy along
   with the required references according to the question.
-file: /ol-ocw-studio-app/courses/hst-721-the-peripheral-auditory-system-fall-2005/5acd31e665e704d984d78858b93586af_study_qs_ds_1.pdf
+file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/5acd31e665e704d984d78858b93586af_study_qs_ds_1.pdf
 file_size: 110549
 file_type: application/pdf
 learning_resource_types:
