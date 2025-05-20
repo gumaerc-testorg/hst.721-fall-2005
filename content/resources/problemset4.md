@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 3 problem questions on the topic of efferent control
   which are intended to integrate the material learned in the course.
-file: /ol-ocw-studio-app/courses/hst-721-the-peripheral-auditory-system-fall-2005/4e5275b3c12a1b67c9bef8a088b970c5_problemset4.pdf
+file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/4e5275b3c12a1b67c9bef8a088b970c5_problemset4.pdf
 file_size: 102294
 file_type: application/pdf
 learning_resource_types:
