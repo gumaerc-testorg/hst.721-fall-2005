@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains 3 problem questions on the topic of anatomy and
   hair cell physiology which are intended to integrate the material learned in the
   course.
-file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/52a5225112e388525afa44f0f3b905ba_problemset1.pdf
+file: /ol-ocw-studio-app/courses/hst-721-the-peripheral-auditory-system-fall-2005/52a5225112e388525afa44f0f3b905ba_problemset1.pdf
 file_size: 228313
 file_type: application/pdf
 learning_resource_types:
