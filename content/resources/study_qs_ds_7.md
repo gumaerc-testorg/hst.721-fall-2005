@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains study questions on the topic of auditory nerve
   response along with the required references according to the question.
-file: /courses/hst-721-the-peripheral-auditory-system-fall-2005/f80fb4d00490b3b9f755622ccae444f0_study_qs_ds_7.pdf
+file: /ol-ocw-studio-app/courses/hst-721-the-peripheral-auditory-system-fall-2005/f80fb4d00490b3b9f755622ccae444f0_study_qs_ds_7.pdf
 file_size: 106275
 file_type: application/pdf
 learning_resource_types:
