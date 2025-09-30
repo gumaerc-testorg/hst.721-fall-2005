@@ -5,8 +5,9 @@ file: /ol-ocw-studio-app/courses/hst-721-the-peripheral-auditory-system-fall-200
 file_size: 7183
 file_type: image/jpeg
 image_metadata:
-  caption: "Normal ear anatomy. (Illustration courtesy of the\_[National Institute\
-    \ on Deafness and Other Communication](http://www.nidcd.nih.gov/).)"
+  caption: "Normal ear anatomy. (Illustration courtesy of the\_{{% resource_link \"\
+    c4ae69e4-6485-4bca-aee6-b876be01e0ba\" \"National Institute on Deafness and Other\
+    \ Communication\" %}}.)"
   credit: ''
   image-alt: Anatomical drawing of the human ear.
 learning_resource_types: []
